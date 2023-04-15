@@ -8,9 +8,6 @@ permissions:
   grim.alerts:
     description: Receive alerts for violations
     default: op
-  grim.alerts.enable-on-join:
-    description: Enable alerts on join
-    default: op
   grim.brand:
     description: Show client brands on join
     default: op

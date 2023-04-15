@@ -74,11 +74,6 @@ dependencies {
             default = Permission.Default.OP
         }
 
-        register("grim.alerts.enable-on-join") {
-            description = "Enable alerts on join"
-            default = Permission.Default.OP
-        }
-
         register("grim.performance") {
             description = "Check performance metrics"
             default = Permission.Default.OP
